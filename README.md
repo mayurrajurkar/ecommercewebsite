@@ -1,6 +1,6 @@
-Grocery Store Application
+Ecommerce Store Application
 
-Welcome to the Grocery Store Application! This application is designed to simulate a simple online grocery store where users can browse categories, view products, and place orders. It is built using Flask and SQLAlchemy.
+Welcome to the Ecommerce Store Application! This application is designed to simulate a simple online grocery store where users can browse categories, view products, and place orders. It is built using Flask and SQLAlchemy.
 
 Table of Contents:-
 Features
